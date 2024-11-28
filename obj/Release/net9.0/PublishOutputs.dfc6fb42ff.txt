@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\PortfolioTracker\backend\backend.exe
+C:\Users\Administrator\Desktop\PortfolioTracker\backend\appsettings.Development.json
+C:\Users\Administrator\Desktop\PortfolioTracker\backend\appsettings.json
+C:\Users\Administrator\Desktop\PortfolioTracker\backend\backend.dll
+C:\Users\Administrator\Desktop\PortfolioTracker\backend\backend.deps.json
+C:\Users\Administrator\Desktop\PortfolioTracker\backend\backend.runtimeconfig.json
+C:\Users\Administrator\Desktop\PortfolioTracker\backend\backend.pdb
+C:\Users\Administrator\Desktop\PortfolioTracker\backend\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Administrator\Desktop\PortfolioTracker\backend\Microsoft.OpenApi.dll
