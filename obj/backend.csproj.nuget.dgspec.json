@@ -60,9 +60,37 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[9.0.1, )"
+            },
+            "OpenIddict.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.0-preview4.24563.42, )"
+            },
+            "OpenIddict.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0-preview4.24563.42, )"
+            },
+            "OpenIddict.Server.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.0-preview4.24563.42, )"
+            },
+            "OpenIddict.Validation.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.0-preview4.24563.42, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
